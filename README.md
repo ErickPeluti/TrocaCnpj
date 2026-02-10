@@ -17,4 +17,4 @@ Esta operação apaga dados fiscais. Sempre faça backup antes de usar.
 - Firebird (fbclient)
 
 ## 👤 Autor
-Feito por **Erick Peluti**
+Feito por **Erick Peluti** 
